@@ -1,0 +1,26 @@
+.minebutton {
+	display: inline-block;
+	width: 30px;
+	height: 60px;
+	background-color: #E0E0E0;
+	margin: 1px;
+	padding: 0;
+	border: none;
+	cursor: pointer;
+}
+
+#sweep {
+	margin-right: 0px;
+}
+
+#sweep:hover {
+	background-color: #800000;
+}
+
+#flag {
+	margin-left: -4px;
+}
+
+#flag:hover {
+	background-color: #000080;
+}
